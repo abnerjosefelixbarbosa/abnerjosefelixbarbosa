@@ -1,6 +1,4 @@
-## Olá! meu é Abner 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-jose-feliz-barbosa/)
+## Olá! meu nome é Abner 👋
 
 ![Abner GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerjosefelixbarbosa&show_icons=true&theme=dracula)
 
